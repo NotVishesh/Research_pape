@@ -1,0 +1,71 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging and build outputs
+build/
+dist/
+site/
+*.egg-info/
+pip-wheel-metadata/
+
+# Notebook and interactive artifacts
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.orig
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Hugging Face / model artifacts
+models/**
+*.ckpt
+*.safetensors
+*.pth
+*.pt
+*.bin
+*.onnx
+*.h5
+*.hdf5
+*.tflite
+*.crdownload
+
+# Stable Diffusion WebUI Forge runtime data
+stable-diffusion-webui-forge/venv/
+stable-diffusion-webui-forge/repositories/
+stable-diffusion-webui-forge/outputs/
+stable-diffusion-webui-forge/output/
+stable-diffusion-webui-forge/cache/
+stable-diffusion-webui-forge/tmp/
+stable-diffusion-webui-forge/log/
+stable-diffusion-webui-forge/config_states/
+stable-diffusion-webui-forge/node_modules/
+stable-diffusion-webui-forge/embeddings/
+stable-diffusion-webui-forge/interrogate/
+stable-diffusion-webui-forge/textual_inversion/
