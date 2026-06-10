@@ -56,6 +56,9 @@ models/**
 *.tflite
 *.crdownload
 
+# Experiment output images (keep results.csv)
+results/*.png
+
 # Stable Diffusion WebUI Forge runtime data
 stable-diffusion-webui-forge/venv/
 stable-diffusion-webui-forge/repositories/
