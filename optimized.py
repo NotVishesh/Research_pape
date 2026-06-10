@@ -55,8 +55,6 @@ def load_pipeline():
    )
 
 
-
-
 print("=== EMOD Optimized Experiments ===")
 print(f"[startup] Current working directory: {os.getcwd()}")
 print(f"[startup] Results directory ready: {os.path.abspath('results')}")
