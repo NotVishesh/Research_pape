@@ -1,0 +1,2 @@
+experiment,gen_time_s,peak_vram_gb,steps,resolution
+baseline,3.44,2.626,20,512x512
